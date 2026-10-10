@@ -6,4 +6,4 @@ Thymeleaf 선택 시 화면은 백엔드의 templates/static에 포함하고 이
 
 검증: GitHub Conventions 검사 및 이슈 폼 등록. 전체 설계는 backend/docs를 따릅니다.
 
-초기 main에는 협업 템플릿과 README만 등록합니다. 앱 코드·전체 설정은 chore/1-initial-scaffold PR에서 검토 후 다른 팀원이 머지합니다.
+초기 main에는 협업 템플릿과 README만 등록합니다. 앱 코드·전체 설정은 chore/1-initial-scaffold PR에서 검토 후 작성자가 머지할 수 있습니다.
