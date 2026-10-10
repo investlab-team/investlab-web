@@ -6,4 +6,4 @@ Thymeleaf 선택 시 화면은 백엔드의 templates/static에 포함하고 이
 
 검증: GitHub Conventions 검사 및 이슈 폼 등록. 전체 설계는 backend/docs를 따릅니다.
 
-초기 main에는 협업 템플릿과 README만 등록합니다. 앱 코드·전체 설정은 chore/1-initial-scaffold PR에서 검토 후 작성자가 머지할 수 있습니다.
+기본·개발 통합 브랜치는 `dev`입니다. 최신 `dev`에서 작업 브랜치를 만들고 PR도 `dev`로 보냅니다. 회의 설명과 CI 통과 후 작성자가 머지할 수 있습니다. `main`은 릴리스 기준으로 보존하며 반영 시점은 팀 합의 후 별도 PR로 정합니다.
